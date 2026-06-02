@@ -1,0 +1,1 @@
+{"A":[[0.0,0.1,0.05,0.1,0.02],[0.3,0.0,0.6,0.2,0.15],[0.1,0.4,0.0,0.3,0.25],[0.2,0.2,0.1,0.0,0.1],[0.1,0.1,0.15,0.2,0.0]],"notes":"Estimated causal relationships show moderate influences among clusters, particularly from cluster 1 (Reactor heat imbalance) to 2 (Catalyst issues) and 3 (Pressure anomalies). Cluster 3 exhibits influences too."}

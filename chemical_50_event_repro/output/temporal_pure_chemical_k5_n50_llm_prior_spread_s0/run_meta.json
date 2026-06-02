@@ -1,0 +1,15 @@
+{
+  "model": "PureTemporalMultivariateHawkes",
+  "n_events": 50,
+  "K": 5,
+  "beta_dag": 1.0,
+  "lambda_e": 0.1,
+  "seed": 0,
+  "init_std": 0.0,
+  "q_default": 0.5,
+  "q_npy": "output/q_cluster_prior_k5_llm_n50.npy",
+  "q_csv": null,
+  "a_gate_temperature": 1.0,
+  "input": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/chemical_50_event_repro/output/sim_chemical_50_k5_uniform_passset.csv",
+  "cluster_csv": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/chemical_50_event_repro/output/sim_chemical50_k5_uniform_passset_oracle_clusters.csv"
+}

@@ -1,0 +1,51 @@
+event_id,Alarm Text,Set,time,cluster_id_true,cause_event_id_true
+1,ALARM52031-Catalyst dosing deviation unit 1.,1/1/26 8:07:38,458.968,2,-1
+2,ALARM56071-Analyzer outlier stream 2.,1/1/26 8:07:54,474.868,6,1
+3,ALARM55061-Reboiler duty deviation loop 1.,1/1/26 8:15:56,956.689,5,-1
+4,ALARM57081-SIS recovery sequence initiated.,1/1/26 8:16:17,977.242,7,3
+5,ALARM52031-Catalyst dosing deviation unit 4.,1/1/26 8:20:52,1252.67,2,-1
+6,ALARM55062-Reboiler valve oscillation loop 1.,1/1/26 8:21:18,1278.231,5,5
+7,ALARM52031-Catalyst dosing deviation unit 4.,1/1/26 8:28:53,1733.739,2,-1
+8,ALARM54052-Column deltaP surge section 3.,1/1/26 8:29:15,1755.888,4,7
+9,ALARM56071-Analyzer outlier stream 2.,1/1/26 8:34:00,2040.479,6,-1
+10,ALARM57082-Interlock recovery latch engaged.,1/1/26 8:34:16,2056.586,7,9
+11,ALARM54051-Column pressure bump section 4.,1/1/26 8:40:06,2406.701,4,-1
+12,ALARM55061-Reboiler duty deviation loop 3.,1/1/26 8:40:31,2431.383,5,11
+13,ALARM51022-Heat balance mismatch unit 3.,1/1/26 8:47:35,2855.226,1,-1
+14,ALARM54051-Column pressure bump section 4.,1/1/26 8:47:58,2878.036,4,13
+15,ALARM50011-Feed pressure ripple train 4.,1/1/26 8:54:07,3247.758,0,-1
+16,ALARM53041-Agitator vibration spike vessel 3.,1/1/26 8:54:19,3259.848,3,15
+17,ALARM53042-Agitator motor oscillation vessel 2.,1/1/26 9:00:59,3659.586,3,-1
+18,ALARM54051-Column pressure bump section 1.,1/1/26 9:01:08,3668.735,4,17
+19,ALARM51021-Reactor temperature drift unit 3.,1/1/26 9:09:02,4142.195,1,-1
+20,ALARM52031-Catalyst dosing deviation unit 2.,1/1/26 9:09:21,4161.565,2,19
+21,ALARM51021-Reactor temperature drift unit 4.,1/1/26 9:16:56,4616.249,1,-1
+22,ALARM53042-Agitator motor oscillation vessel 4.,1/1/26 9:17:10,4630.63,3,21
+23,ALARM50012-Feed suction transient train 2.,1/1/26 9:25:42,5142.719,0,-1
+24,ALARM51022-Heat balance mismatch unit 3.,1/1/26 9:26:06,5166.795,1,23
+25,ALARM50011-Feed pressure ripple train 3.,1/1/26 9:33:46,5626.959,0,-1
+26,ALARM52031-Catalyst dosing deviation unit 2.,1/1/26 9:33:58,5638.462,2,25
+27,ALARM53041-Agitator vibration spike vessel 2.,1/1/26 9:40:14,6014.477,3,-1
+28,ALARM56072-Composition jump stream 4.,1/1/26 9:40:23,6023.265,6,27
+29,ALARM50012-Feed suction transient train 2.,1/1/26 9:46:17,6377.267,0,-1
+30,ALARM51022-Heat balance mismatch unit 1.,1/1/26 9:55:16,6916.334,1,-1
+31,ALARM52031-Catalyst dosing deviation unit 1.,1/1/26 10:04:37,7477.0,2,-1
+32,ALARM53042-Agitator motor oscillation vessel 4.,1/1/26 10:15:15,8115.629,3,-1
+33,ALARM54052-Column deltaP surge section 1.,1/1/26 10:22:09,8529.668,4,-1
+34,ALARM50011-Feed pressure ripple train 3.,1/1/26 10:29:19,8959.329,0,-1
+35,ALARM51021-Reactor temperature drift unit 4.,1/1/26 10:37:03,9423.673,1,-1
+36,ALARM52032-Catalyst feeder oscillation unit 4.,1/1/26 10:43:09,9789.988,2,-1
+37,ALARM53041-Agitator vibration spike vessel 3.,1/1/26 10:48:55,10135.461,3,-1
+38,ALARM54051-Column pressure bump section 2.,1/1/26 10:56:41,10601.957,4,-1
+39,ALARM50012-Feed suction transient train 4.,1/1/26 11:03:01,10981.376,0,-1
+40,ALARM51022-Heat balance mismatch unit 3.,1/1/26 11:11:55,11515.811,1,-1
+41,ALARM52031-Catalyst dosing deviation unit 2.,1/1/26 11:19:28,11968.814,2,-1
+42,ALARM53042-Agitator motor oscillation vessel 1.,1/1/26 11:29:20,12560.251,3,-1
+43,ALARM54051-Column pressure bump section 1.,1/1/26 11:38:25,13105.344,4,-1
+44,ALARM50011-Feed pressure ripple train 2.,1/1/26 11:45:14,13514.672,0,-1
+45,ALARM51022-Heat balance mismatch unit 1.,1/1/26 11:55:05,14105.963,1,-1
+46,ALARM52032-Catalyst feeder oscillation unit 4.,1/1/26 12:04:47,14687.631,2,-1
+47,ALARM53042-Agitator motor oscillation vessel 3.,1/1/26 12:12:03,15123.248,3,-1
+48,ALARM54051-Column pressure bump section 1.,1/1/26 12:18:44,15524.163,4,-1
+49,ALARM50012-Feed suction transient train 3.,1/1/26 12:27:43,16063.036,0,-1
+50,ALARM51021-Reactor temperature drift unit 3.,1/1/26 12:33:31,16411.95,1,-1

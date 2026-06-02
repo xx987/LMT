@@ -1,0 +1,2 @@
+=== API attempt 1 of 1 ===
+{"A":[[0.0,0.1,0.2,0.0,0.3],[0.0,0.0,0.1,0.2,0.1],[0.0,0.0,0.0,0.3,0.2],[0.0,0.0,0.0,0.0,0.1],[0.0,0.0,0.0,0.0,0.0]],"notes":"Cluster 0 shows influence on 1, 2, and 4; Cluster 1 influences 2 and 3; Cluster 2 influences 3 and 4; Cluster 3 has minimal influence; Cluster 4 has weak influence on 1."}

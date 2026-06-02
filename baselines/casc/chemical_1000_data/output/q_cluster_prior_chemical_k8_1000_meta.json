@@ -1,0 +1,96 @@
+{
+  "input": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/baselines/casc/chemical_1000_data/output/sim_chemical_1000_k8_uniform_passset.csv",
+  "cluster_csv": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/baselines/casc/chemical_1000_data/output/sim_chemical1000_k8_uniform_passset_oracle_clusters.csv",
+  "checkpoint": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/output/llm_role_distill_demo.pt",
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "aggregation": "mean",
+  "trim_ratio": 0.1,
+  "top_p": 0.2,
+  "respect_time_order": true,
+  "diag_value": 0.5,
+  "clip_eps": 0.001,
+  "K": 8,
+  "N": 1000,
+  "pair_counts": [
+    [
+      5886,
+      7859,
+      10095,
+      8016,
+      7719,
+      5743,
+      6280,
+      4045
+    ],
+    [
+      7837,
+      10296,
+      13400,
+      10648,
+      10185,
+      7649,
+      8419,
+      5383
+    ],
+    [
+      9416,
+      12376,
+      15931,
+      12692,
+      12216,
+      9127,
+      9995,
+      6394
+    ],
+    [
+      7680,
+      10088,
+      13084,
+      10296,
+      9973,
+      7442,
+      8170,
+      5231
+    ],
+    [
+      7977,
+      10551,
+      13560,
+      10763,
+      10296,
+      7781,
+      8478,
+      5469
+    ],
+    [
+      5702,
+      7471,
+      9668,
+      7678,
+      7339,
+      5460,
+      6060,
+      3909
+    ],
+    [
+      5165,
+      6701,
+      8800,
+      6950,
+      6642,
+      4965,
+      5460,
+      3514
+    ],
+    [
+      3585,
+      4697,
+      6136,
+      4849,
+      4611,
+      3441,
+      3836,
+      2415
+    ]
+  ]
+}

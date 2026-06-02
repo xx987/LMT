@@ -1,0 +1,5 @@
+=== API attempt 1 of 2 ===
+{"A":[[0.0,0.1,0.3,0.2,0.0,0.0,0.0,0.1],[0.0,0.0,0.2,0.2,0.1,0.0,0.0,0.1],[0.1,0.3,0.0,0.3,0.1,0.0,0.0,0.0],[0.2,0.1,0.3,0.0,0.4,0.0,0.0,0.0],[0.0,0.1,0.2,0.3,0.0,0.0,0.0,0.0],[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0)],"notes":"The matrix reflects observed causal relationships among clusters based on alarm logs, with notable influences from clusters 0, 2, and 3."}
+
+=== API attempt 2 of 2 ===
+{"A":[[0.0,0.1,0.2,0.1,0.0,0.0,0.0,0.0],[0.0,0.0,0.3,0.1,0.0,0.0,0.0,0.0],[0.0,0.1,0.0,0.3,0.1,0.0,0.0,0.0],[0.0,0.1,0.2,0.0,0.1,0.0,0.0,0.0],[0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0],[0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0],[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1],[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]],"notes":"Probabilities reflect causal relationships inferred from alarm sequences and texts, with notable influences observed between clusters 1, 2, and 3."}

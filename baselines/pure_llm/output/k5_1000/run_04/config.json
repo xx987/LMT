@@ -1,0 +1,7 @@
+{
+  "llm_temperature": 1.0,
+  "run_index": 4,
+  "k": 5,
+  "n_events_preset": 1000,
+  "rows_sent": 1000
+}

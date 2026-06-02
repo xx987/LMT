@@ -1,0 +1,101 @@
+event_id,Alarm Text,Set,time,cluster_id_true,cause_event_id_true
+1,ALARM61020-Reactor thermal drift unit 4.,1/1/26 8:06:05,365.749,1,-1
+2,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 8:06:17,377.016,2,1
+3,ALARM61021-Reactor heat imbalance unit 2.,1/1/26 8:12:43,763.079,1,-1
+4,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 8:12:57,777.448,2,3
+5,ALARM60010-Feed pressure transient train 3.,1/1/26 8:16:20,980.05,0,-1
+6,ALARM63040-Column pressure surge section 2.,1/1/26 8:16:37,997.758,3,5
+7,ALARM60010-Feed pressure transient train 4.,1/1/26 8:22:40,1360.431,0,-1
+8,ALARM62031-Catalyst feeder jitter line 4.,1/1/26 8:22:55,1375.864,2,7
+9,ALARM60011-Feed oscillation train 2.,1/1/26 8:26:26,1586.612,0,-1
+10,ALARM61021-Reactor heat imbalance unit 3.,1/1/26 8:26:38,1598.016,1,9
+11,ALARM63040-Column pressure surge section 3.,1/1/26 8:31:07,1867.008,3,-1
+12,ALARM64050-Recovery interlock sequence state 2.,1/1/26 8:31:24,1884.129,4,11
+13,ALARM61020-Reactor thermal drift unit 2.,1/1/26 8:36:58,2218.656,1,-1
+14,ALARM64051-SIS recovery latch state 4.,1/1/26 8:37:14,2234.53,4,13
+15,ALARM60011-Feed oscillation train 2.,1/1/26 8:42:00,2520.949,0,-1
+16,ALARM62031-Catalyst feeder jitter line 1.,1/1/26 8:42:09,2529.676,2,15
+17,ALARM61020-Reactor thermal drift unit 1.,1/1/26 8:47:22,2842.776,1,-1
+18,ALARM64051-SIS recovery latch state 4.,1/1/26 8:47:29,2849.542,4,17
+19,ALARM60011-Feed oscillation train 1.,1/1/26 8:53:48,3228.174,0,-1
+20,ALARM63040-Column pressure surge section 3.,1/1/26 8:54:01,3241.754,3,19
+21,ALARM61020-Reactor thermal drift unit 4.,1/1/26 9:00:03,3603.695,1,-1
+22,ALARM64051-SIS recovery latch state 4.,1/1/26 9:00:13,3613.949,4,21
+23,ALARM61020-Reactor thermal drift unit 3.,1/1/26 9:07:06,4026.916,1,-1
+24,ALARM62030-Catalyst dosing mismatch line 2.,1/1/26 9:07:23,4043.634,2,23
+25,ALARM60011-Feed oscillation train 4.,1/1/26 9:13:30,4410.446,0,-1
+26,ALARM62031-Catalyst feeder jitter line 3.,1/1/26 9:13:38,4418.782,2,25
+27,ALARM60010-Feed pressure transient train 2.,1/1/26 9:18:30,4710.795,0,-1
+28,ALARM61021-Reactor heat imbalance unit 1.,1/1/26 9:18:37,4717.32,1,27
+29,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 9:22:14,4934.35,2,-1
+30,ALARM64050-Recovery interlock sequence state 2.,1/1/26 9:22:28,4948.546,4,29
+31,ALARM62031-Catalyst feeder jitter line 1.,1/1/26 9:28:27,5307.289,2,-1
+32,ALARM64051-SIS recovery latch state 4.,1/1/26 9:28:44,5324.899,4,31
+33,ALARM60011-Feed oscillation train 3.,1/1/26 9:33:03,5583.097,0,-1
+34,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 9:33:13,5593.543,2,33
+35,ALARM61021-Reactor heat imbalance unit 3.,1/1/26 9:38:06,5886.236,1,-1
+36,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 9:38:14,5894.51,2,35
+37,ALARM62031-Catalyst feeder jitter line 2.,1/1/26 9:41:45,6105.691,2,-1
+38,ALARM63041-Column deltaP anomaly section 1.,1/1/26 9:41:57,6117.4,3,37
+39,ALARM60011-Feed oscillation train 2.,1/1/26 9:45:51,6351.858,0,-1
+40,ALARM61020-Reactor thermal drift unit 3.,1/1/26 9:46:05,6365.896,1,39
+41,ALARM62030-Catalyst dosing mismatch line 2.,1/1/26 9:50:50,6650.812,2,-1
+42,ALARM64051-SIS recovery latch state 2.,1/1/26 9:51:06,6666.804,4,41
+43,ALARM60010-Feed pressure transient train 3.,1/1/26 9:56:54,7014.868,0,-1
+44,ALARM63041-Column deltaP anomaly section 1.,1/1/26 9:57:04,7024.616,3,43
+45,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 10:03:24,7404.359,2,-1
+46,ALARM63041-Column deltaP anomaly section 2.,1/1/26 10:03:40,7420.016,3,45
+47,ALARM63040-Column pressure surge section 2.,1/1/26 10:08:13,7693.011,3,-1
+48,ALARM64050-Recovery interlock sequence state 1.,1/1/26 10:08:22,7702.471,4,47
+49,ALARM62031-Catalyst feeder jitter line 1.,1/1/26 10:14:06,8046.269,2,-1
+50,ALARM64050-Recovery interlock sequence state 2.,1/1/26 10:14:13,8053.946,4,49
+51,ALARM61021-Reactor heat imbalance unit 2.,1/1/26 10:18:01,8281.924,1,-1
+52,ALARM64051-SIS recovery latch state 4.,1/1/26 10:18:08,8288.013,4,51
+53,ALARM61020-Reactor thermal drift unit 2.,1/1/26 10:24:16,8656.875,1,-1
+54,ALARM64051-SIS recovery latch state 4.,1/1/26 10:24:30,8670.853,4,53
+55,ALARM61021-Reactor heat imbalance unit 4.,1/1/26 10:30:20,9020.093,1,-1
+56,ALARM62031-Catalyst feeder jitter line 1.,1/1/26 10:30:35,9035.461,2,55
+57,ALARM61020-Reactor thermal drift unit 2.,1/1/26 10:35:25,9325.601,1,-1
+58,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 10:35:38,9338.426,2,57
+59,ALARM62030-Catalyst dosing mismatch line 2.,1/1/26 10:39:11,9551.977,2,-1
+60,ALARM64050-Recovery interlock sequence state 1.,1/1/26 10:39:19,9559.352,4,59
+61,ALARM63040-Column pressure surge section 1.,1/1/26 10:44:59,9899.768,3,-1
+62,ALARM64050-Recovery interlock sequence state 1.,1/1/26 10:45:11,9911.421,4,61
+63,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 10:50:27,10227.078,2,-1
+64,ALARM63040-Column pressure surge section 2.,1/1/26 10:50:42,10242.258,3,63
+65,ALARM62031-Catalyst feeder jitter line 4.,1/1/26 10:56:14,10574.591,2,-1
+66,ALARM63040-Column pressure surge section 2.,1/1/26 10:56:27,10587.233,3,65
+67,ALARM63041-Column deltaP anomaly section 2.,1/1/26 11:01:41,10901.443,3,-1
+68,ALARM64051-SIS recovery latch state 4.,1/1/26 11:01:51,10911.091,4,67
+69,ALARM60010-Feed pressure transient train 1.,1/1/26 11:04:58,11098.487,0,-1
+70,ALARM62030-Catalyst dosing mismatch line 4.,1/1/26 11:05:09,11109.727,2,69
+71,ALARM63041-Column deltaP anomaly section 4.,1/1/26 11:09:01,11341.228,3,-1
+72,ALARM64051-SIS recovery latch state 4.,1/1/26 11:09:12,11352.13,4,71
+73,ALARM63040-Column pressure surge section 1.,1/1/26 11:15:36,11736.947,3,-1
+74,ALARM64050-Recovery interlock sequence state 4.,1/1/26 11:15:45,11745.754,4,73
+75,ALARM60011-Feed oscillation train 1.,1/1/26 11:18:59,11939.747,0,-1
+76,ALARM61020-Reactor thermal drift unit 2.,1/1/26 11:19:09,11949.123,1,75
+77,ALARM61020-Reactor thermal drift unit 4.,1/1/26 11:23:19,12199.586,1,-1
+78,ALARM64050-Recovery interlock sequence state 4.,1/1/26 11:23:33,12213.529,4,77
+79,ALARM62030-Catalyst dosing mismatch line 3.,1/1/26 11:28:47,12527.217,2,-1
+80,ALARM63041-Column deltaP anomaly section 2.,1/1/26 11:29:02,12542.623,3,79
+81,ALARM60010-Feed pressure transient train 4.,1/1/26 11:34:42,12882.059,0,-1
+82,ALARM61020-Reactor thermal drift unit 1.,1/1/26 11:34:52,12892.935,1,81
+83,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 11:41:08,13268.3,2,-1
+84,ALARM63040-Column pressure surge section 2.,1/1/26 11:41:16,13276.304,3,83
+85,ALARM60011-Feed oscillation train 4.,1/1/26 11:44:21,13461.755,0,-1
+86,ALARM61021-Reactor heat imbalance unit 2.,1/1/26 11:44:28,13468.835,1,85
+87,ALARM60011-Feed oscillation train 1.,1/1/26 11:50:22,13822.202,0,-1
+88,ALARM62030-Catalyst dosing mismatch line 4.,1/1/26 11:50:33,13833.744,2,87
+89,ALARM60010-Feed pressure transient train 4.,1/1/26 11:54:12,14052.449,0,-1
+90,ALARM63041-Column deltaP anomaly section 4.,1/1/26 11:54:24,14064.462,3,89
+91,ALARM60011-Feed oscillation train 4.,1/1/26 11:58:01,14281.017,0,-1
+92,ALARM63041-Column deltaP anomaly section 2.,1/1/26 11:58:15,14295.373,3,91
+93,ALARM60010-Feed pressure transient train 3.,1/1/26 12:03:02,14582.45,0,-1
+94,ALARM63040-Column pressure surge section 1.,1/1/26 12:03:13,14593.022,3,93
+95,ALARM60010-Feed pressure transient train 3.,1/1/26 12:07:25,14845.385,0,-1
+96,ALARM61020-Reactor thermal drift unit 1.,1/1/26 12:07:38,14858.949,1,95
+97,ALARM60011-Feed oscillation train 2.,1/1/26 12:12:05,15125.784,0,-1
+98,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 12:12:12,15132.836,2,97
+99,ALARM62030-Catalyst dosing mismatch line 1.,1/1/26 12:15:41,15341.157,2,-1
+100,ALARM64050-Recovery interlock sequence state 2.,1/1/26 12:15:58,15358.7,4,99

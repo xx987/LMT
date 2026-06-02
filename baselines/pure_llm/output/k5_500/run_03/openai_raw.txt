@@ -1,0 +1,1 @@
+{"A":[[0.0,0.1,0.1,0.0,0.0],[0.0,0.0,0.3,0.2,0.0],[0.0,0.1,0.0,0.1,0.1],[0.0,0.2,0.2,0.0,0.1],[0.0,0.0,0.1,0.0,0.0]],"notes":"Cluster 1 shows influence on Cluster 2 and 3, likely due to heat imbalances. Cluster 2 impacts Cluster 1 and 3, indicating catalyst issues. Cluster 3 has some influence on Cluster 1 and 2, while Cluster 4 is less connected."}

@@ -1,0 +1,51 @@
+event_id,Alarm Text,Set,time,cluster_id_true,cause_event_id_true
+1,ALARM52030-Catalyst dosing deviation at Unit 1.,1/1/26 8:03:07,187.528,2,-1
+2,ALARM52240-Sample probe conditioning temperature high on Stream B1.,1/1/26 8:03:26,206.969,12,1
+3,ALARM54050-Heat exchanger approach temperature out of range (target=-0.867).,1/1/26 8:04:11,251.158,4,1
+4,ALARM56221-SIS input discrepancy on analyzer trip chain B2.,1/1/26 8:04:17,257.9,14,-1
+5,ALARM57081-SIS interlock recovery sequence initiated.,1/1/26 8:06:07,367.877,7,-1
+6,ALARM52030-Catalyst dosing deviation at Unit 4.,1/1/26 8:06:14,374.062,2,-1
+7,ALARM52240-Sample probe conditioning temperature high on Stream B2.,1/1/26 8:06:19,379.556,12,-1
+8,ALARM56071-Analyzer validation failed due to drift compensation limit.,1/1/26 8:08:27,507.126,6,7
+9,ALARM56220-Analyzer trip advisory raised to SIS voter on Rack 1.,1/1/26 8:09:00,540.721,14,8
+10,ALARM57080-Plant switched to safety recovery after chained process faults.,1/1/26 8:10:34,634.275,7,9
+11,ALARM53040-Distillation column DP high (target=0.766).,1/1/26 8:10:46,646.269,3,-1
+12,ALARM54051-Heat exchanger fouling factor rising beyond control band.,1/1/26 8:10:59,659.474,4,11
+13,ALARM54120-Product run-down line temperature high before Tank 3.,1/1/26 8:11:31,691.288,11,12
+14,ALARM53121-Condenser cooling water valve saturated on Column 2.,1/1/26 8:11:52,712.097,10,11
+15,ALARM54050-Heat exchanger approach temperature out of range (target=-0.925).,1/1/26 8:12:09,729.611,4,14
+16,ALARM54120-Product run-down line temperature high before Tank 1.,1/1/26 8:13:44,824.138,11,15
+17,ALARM55060-Tank vent valve failed to open at Tank 2.,1/1/26 8:13:50,830.471,5,13
+18,ALARM55231-Inerting valve failed to regulate at Tank 1.,1/1/26 8:14:06,846.594,13,17
+19,ALARM54121-Transfer pump minimum flow bypass opening at Tank 2.,1/1/26 8:14:36,876.919,11,14
+20,ALARM57080-Plant switched to safety recovery after chained process faults.,1/1/26 8:14:39,879.822,7,18
+21,ALARM55061-Tank vent pressure transmitter mismatch at Tank 4.,1/1/26 8:15:27,927.5,5,19
+22,ALARM50010-Feed pump flow oscillation above limit on Train 1.,1/1/26 8:15:33,933.512,0,-1
+23,ALARM56070-Online analyzer quality outlier on Stream B1.,1/1/26 8:16:26,986.967,6,-1
+24,ALARM51020-Reactor jacket temperature drift at Vessel 5.,1/1/26 8:18:05,1085.575,1,-1
+25,ALARM51241-Flash drum level approach high before Column 1.,1/1/26 8:18:20,1100.249,15,24
+26,ALARM51131-Reactor baffle washout suspected on Loop B2.,1/1/26 8:18:25,1105.776,9,24
+27,ALARM52030-Catalyst dosing deviation at Unit 3.,1/1/26 8:18:37,1117.021,2,26
+28,ALARM53041-Column tray flooding tendency detected.,1/1/26 8:18:38,1118.292,3,25
+29,ALARM54051-Heat exchanger fouling factor rising beyond control band.,1/1/26 8:18:45,1125.61,4,27
+30,ALARM52241-Fast loop sample lag detected before Analyzer 2.,1/1/26 8:19:38,1178.09,12,27
+31,ALARM56071-Analyzer validation failed due to drift compensation limit.,1/1/26 8:19:59,1199.97,6,30
+32,ALARM56221-SIS input discrepancy on analyzer trip chain B2.,1/1/26 8:21:55,1315.779,14,31
+33,ALARM51020-Reactor jacket temperature drift at Vessel 7.,1/1/26 8:23:20,1400.337,1,-1
+34,ALARM57081-SIS interlock recovery sequence initiated.,1/1/26 8:23:41,1421.431,7,32
+35,ALARM51240-Column feed preheat outlet high on Train 3.,1/1/26 8:24:03,1443.438,15,33
+36,ALARM53041-Column tray flooding tendency detected.,1/1/26 8:24:34,1474.995,3,35
+37,ALARM53120-Column overhead pressure high (limit=1.452).,1/1/26 8:24:55,1495.451,10,36
+38,ALARM51131-Reactor baffle washout suspected on Loop A2.,1/1/26 8:24:56,1496.623,9,33
+39,ALARM52031-Catalyst screw feeder under-delivery at Hopper 2.,1/1/26 8:25:08,1508.212,2,38
+40,ALARM54121-Transfer pump minimum flow bypass opening at Tank 3.,1/1/26 8:25:10,1510.313,11,37
+41,ALARM55060-Tank vent valve failed to open at Tank 1.,1/1/26 8:25:12,1512.672,5,40
+42,ALARM55230-Tank blanket gas pressure low at Tank 4.,1/1/26 8:25:16,1516.787,13,41
+43,ALARM54050-Heat exchanger approach temperature out of range (target=0.760).,1/1/26 8:25:20,1520.592,4,37
+44,ALARM57081-SIS interlock recovery sequence initiated.,1/1/26 8:27:01,1621.553,7,42
+45,ALARM52030-Catalyst dosing deviation at Unit 1.,1/1/26 8:27:45,1665.509,2,-1
+46,ALARM54051-Heat exchanger fouling factor rising beyond control band.,1/1/26 8:27:56,1676.122,4,45
+47,ALARM52241-Fast loop sample lag detected before Analyzer 1.,1/1/26 8:28:10,1690.616,12,45
+48,ALARM56071-Analyzer validation failed due to drift compensation limit.,1/1/26 8:28:20,1700.168,6,47
+49,ALARM53040-Distillation column DP high (target=0.227).,1/1/26 8:30:07,1807.484,3,-1
+50,ALARM56220-Analyzer trip advisory raised to SIS voter on Rack 1.,1/1/26 8:30:07,1807.484,14,48

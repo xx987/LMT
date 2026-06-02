@@ -1,0 +1,98 @@
+{
+  "input": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/chemical_50_event_repro/output/sim_chemical_50_k8_uniform_passset_compat.csv",
+  "cluster_csv": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/chemical_50_event_repro/output/sim_chemical50_k8_uniform_passset_oracle_clusters.csv",
+  "checkpoint": "/Users/xxf/Desktop/NEU/Spring 2026/Text causal/cascade/chemical_50_event_repro/output/llm_role_distill_demo.pt",
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "aggregation": "mean",
+  "trim_ratio": 0.1,
+  "top_p": 0.2,
+  "respect_time_order": false,
+  "diag_value": 0.5,
+  "clip_eps": 0.001,
+  "prior_spread_low_max": null,
+  "prior_spread_high_min": null,
+  "K": 8,
+  "N": 50,
+  "pair_counts": [
+    [
+      56,
+      72,
+      72,
+      64,
+      64,
+      24,
+      24,
+      16
+    ],
+    [
+      72,
+      72,
+      81,
+      72,
+      72,
+      27,
+      27,
+      18
+    ],
+    [
+      72,
+      81,
+      72,
+      72,
+      72,
+      27,
+      27,
+      18
+    ],
+    [
+      64,
+      72,
+      72,
+      56,
+      64,
+      24,
+      24,
+      16
+    ],
+    [
+      64,
+      72,
+      72,
+      64,
+      56,
+      24,
+      24,
+      16
+    ],
+    [
+      24,
+      27,
+      27,
+      24,
+      24,
+      6,
+      9,
+      6
+    ],
+    [
+      24,
+      27,
+      27,
+      24,
+      24,
+      9,
+      6,
+      6
+    ],
+    [
+      16,
+      18,
+      18,
+      16,
+      16,
+      6,
+      6,
+      2
+    ]
+  ]
+}

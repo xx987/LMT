@@ -1,0 +1,2 @@
+=== API attempt 1 of 1 ===
+{"A":[[0.0,0.2,0.1,0.1,0.4],[0.3,0.0,0.2,0.1,0.2],[0.2,0.1,0.0,0.3,0.3],[0.1,0.3,0.2,0.0,0.2],[0.1,0.3,0.2,0.1,0.0]],"notes":"Estimated causal influences based on alarm co-occurrences and temporal patterns. Multiple alarms from different clusters often preceded others."}
